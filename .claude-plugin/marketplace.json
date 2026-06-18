@@ -1,0 +1,13 @@
+{
+  "name": "cinari4-init-claude-project",
+  "owner": {
+    "name": "cinari4"
+  },
+  "plugins": [
+    {
+      "name": "init-claude-project",
+      "source": "./",
+      "description": "Scaffold CLAUDE.md, DEVELOPMENT.md, and WIKI_SPEC.md into the current folder and fill the {WIKI_ROOT} placeholder."
+    }
+  ]
+}
