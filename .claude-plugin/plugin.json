@@ -1,0 +1,5 @@
+{
+  "name": "init-claude-project",
+  "description": "Scaffold CLAUDE.md, DEVELOPMENT.md, and WIKI_SPEC.md into the current folder and fill the {WIKI_ROOT} placeholder.",
+  "version": "0.1.0"
+}
